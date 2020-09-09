@@ -5,5 +5,13 @@
 * [Part 2 NodeJS快速上手](part2/README.md)
     * [Hello world](part2/helloworld.md)
     * [Http服务与路由](part2/http服务与路由.md)
+* [Part 3 NodeJS常用模块](part3/README.md)
+    * [Express](part3/express.md) 
+    * [Socket.IO](part3/socket.io.md) 
+    * [util](part3/util.md) 
+    * [buffer](part3/buffer.md) 
+    * [event](part3/event.md) 
+    * [next](part3/next.md) 
+    * [pad](part3/pad.md) 
 
 

@@ -1,5 +1,6 @@
-## http服务与路由
+## http服务与request
 
+#### http服务器
 简短的分析一下server.js打造的http服务器。
 
 ```javascript
@@ -59,11 +60,9 @@ function(request, response) {
 和字面表述一样，request 是请求的url细节, respond是响应的结果。
 response.writeHead() 函数用来发送填充response的头，response.write()函数用来完成响应结果的主体部分，最后调用response.end()函数完成响应。
 
-
 - 4 使用exports创建最近的模块
 > 最后添上exports.start();就可以将模块导出，在index.js中使用 ` require("./server") ` 就可以使用该自制模块了。
 
-
-
+#### request 
 
 

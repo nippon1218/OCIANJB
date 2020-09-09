@@ -73,11 +73,3 @@ server.start()
 ### 验证
 执行```node index.js```，在浏览器输入[:localhost:8800](http://localhost:8800),观察效果
 
-
-
-
-
-
-
-
-
